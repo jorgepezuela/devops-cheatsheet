@@ -1,6 +1,6 @@
 # GCP Cheatsheet
 
-![text](../Pictures/gcp.jpg)
+![text](../Pictures/gcp.png)
 
 **1. Introduction:**
 

@@ -1,6 +1,6 @@
 # GitLab CI Cheatsheet
 
-![](../Pictures/gitlab-ci.jpeg)
+![](../Pictures/gitlab-ci.png)
 
 **1. Introduction:**
 

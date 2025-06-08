@@ -1,6 +1,6 @@
 # AWS Cheatsheet
 
-![text](../Pictures/aws.jpg)
+![text](../Pictures/aws.png)
 
 **1. Introduction:**
 

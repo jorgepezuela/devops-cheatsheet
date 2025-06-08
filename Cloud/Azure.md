@@ -1,6 +1,6 @@
 # Azure Cheatsheet
 
-![text](../Pictures/azure.jpg)
+![text](../Pictures/azure.png)
 
 **1. Introduction:**
 
