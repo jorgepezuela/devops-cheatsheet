@@ -1,6 +1,6 @@
 # **Jenkins Cheatsheet**
 
-![](../Pictures/jenkins.png)
+![](../Pictures/jenkins-ci.png)
 
 **1. Introduction:**
 
