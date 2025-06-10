@@ -18,7 +18,6 @@ Welcome to the **DevOps Tools Cheatsheet Collection**
 │   ├── Jenkins.md
 │   ├── GitHub-Actions.md
 │   ├── GitLab-CI.md
-│   └── CircleCI.md
 │
 ├── Containerization/
 │   ├── Docker.md
@@ -74,7 +73,6 @@ Boost deployment speed with continuous integration & continuous deployment:
 🚀 [Jenkins](./CI-CD/Jenkins.md)  
 🚀 [GitHub Actions](./CI-CD/GitHub-Actions.md)  
 🚀 [GitLab CI](./CI-CD/GitLab-CI.md)  
-🚀 [CircleCI](./CI-CD/CircleCI.md)  
 
 ### 🐳 **Containerization & Orchestration**  
 
