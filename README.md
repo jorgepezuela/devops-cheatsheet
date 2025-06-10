@@ -1,7 +1,5 @@
 # 🚀 DevOps Tools Cheatsheet Collection  
 
-![DevOps Cheatsheet](https://imgur.com/tdtHIqB.png)  
-
 Welcome to the **DevOps Tools Cheatsheet Collection**
 
 ---
